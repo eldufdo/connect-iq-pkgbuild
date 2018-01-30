@@ -1,6 +1,6 @@
 # Maintainer: Me 
 pkgname="connect-iq"
-pkgver=2.2.4
+pkgver=2.4.2
 pkgrel=1
 epoch=
 pkgdesc="Connect IQ SDK"
