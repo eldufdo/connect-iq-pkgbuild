@@ -21,7 +21,7 @@ install=
 changelog=
 source=("https://developer.garmin.com/downloads/connect-iq/sdks/connectiq-sdk-win-$pkgver.zip")
 noextract=("connectiq-sdk-win-$pkgver.zip")
-md5sums=("a5144b79506bbd78fa45451458d40594")
+md5sums=("9560bae27824562d40d48002df694037")
 validpgpkeys=()
 prepare() {
 	echo 'prepare'
